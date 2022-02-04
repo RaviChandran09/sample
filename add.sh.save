@@ -1,0 +1,8 @@
+#!/bin/bash -x
+
+x=100
+y=500
+z=$(( $x + $y ))
+echo $zbash: ./add.sh: No such file or directory
+bash: add.sh: command not found
+
